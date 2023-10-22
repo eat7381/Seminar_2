@@ -147,18 +147,21 @@
 // 7 -> да
 // 1 -> нет
 
-// Console.WriteLine("Введите число");
-//  int dayNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число");
+ int dayNumber = Convert.ToInt32(Console.ReadLine());
 
-//  if(dayNumber == 6 || dayNumber == 7)
+ if(dayNumber == 6 || dayNumber == 7)
  
-// Console.WriteLine("(Это выходной) -> да");
+Console.WriteLine("(Это выходной) -> да");
 
-// else if(dayNumber < 1 || dayNumber > 7)
+else if(dayNumber < 1 || dayNumber > 7)
 
-// Console.WriteLine("Это не день недели");
+Console.WriteLine("Это не день недели");
 
-// else
-// Console.WriteLine("(Это не выходной) -> нет");
+else
+Console.WriteLine("(Это не выходной) -> нет");
 
+
+
+    
 

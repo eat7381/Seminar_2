@@ -12,3 +12,4 @@
 /Users/talashoveugene/Desktop/c#_Lesson2/obj/Debug/net8.0/c#_Lesson2.pdb
 /Users/talashoveugene/Desktop/c#_Lesson2/obj/Debug/net8.0/c#_Lesson2.genruntimeconfig.cache
 /Users/talashoveugene/Desktop/c#_Lesson2/obj/Debug/net8.0/ref/c#_Lesson2.dll
+/Users/talashoveugene/Desktop/c#_Lesson2/obj/Debug/net8.0/c#_Lesson2.sourcelink.json

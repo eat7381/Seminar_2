@@ -1,0 +1,15 @@
+/Users/talashoveugene/Desktop/C# Lesson 3/bin/Debug/net8.0/C# Lesson 3
+/Users/talashoveugene/Desktop/C# Lesson 3/bin/Debug/net8.0/C# Lesson 3.deps.json
+/Users/talashoveugene/Desktop/C# Lesson 3/bin/Debug/net8.0/C# Lesson 3.runtimeconfig.json
+/Users/talashoveugene/Desktop/C# Lesson 3/bin/Debug/net8.0/C# Lesson 3.dll
+/Users/talashoveugene/Desktop/C# Lesson 3/bin/Debug/net8.0/C# Lesson 3.pdb
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.AssemblyInfoInputs.cache
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.AssemblyInfo.cs
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.csproj.CoreCompileInputs.cache
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.sourcelink.json
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.dll
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/refint/C# Lesson 3.dll
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.pdb
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/C# Lesson 3.genruntimeconfig.cache
+/Users/talashoveugene/Desktop/C# Lesson 3/obj/Debug/net8.0/ref/C# Lesson 3.dll
